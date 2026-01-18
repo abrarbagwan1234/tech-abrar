@@ -1,4 +1,4 @@
 # tech-abrar
 This is my first repository.
 <br>
-Author - Abrar Bagwan
+Author - Abrar Bagwan (Abrar-tech)
